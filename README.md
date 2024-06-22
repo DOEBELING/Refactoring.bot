@@ -7,3 +7,7 @@ This bot is designed to perform static code analysis and provide code fixes thro
 * [@PHP-Psalm](https://github.com/php-psalm)
 * [@PHP-Rector](https://github.com/php-rector)
 * [@PHP-CS](https://github.com/php-cs)
+
+## Demo
+
+![](demo.png)
